@@ -14,5 +14,8 @@ public class Main {
         fariha.eats();
         fariha.runs();
         fariha.works();
+
+
+        //This is a comment
     }
 }
